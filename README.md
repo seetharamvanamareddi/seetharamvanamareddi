@@ -2,6 +2,18 @@
 
 I'm seetharam, and I do content on Design and Development. I really enjoy learning languages and frameworks like React.
 
+## Skills and Experience
+### Hi there 👋, seetharam vanamareddi
+I'm seetharam, and I do content on Design and Development. I really enjoy learning languages and frameworks like React
+
+Skills: HTML/CSS/JavaScript
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/seetharamvanamreddi)  
+
+![Profile views](https://gpvc.arturio.dev/seetharamvanamreddi)  
+
 Skills: HTML/CSS/JavaScript
 
 
