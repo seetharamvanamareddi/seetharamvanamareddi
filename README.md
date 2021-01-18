@@ -4,9 +4,6 @@ I'm seetharam, and I do content on Design and Development. I really enjoy learni
 
 Skills: HTML/CSS/JavaScript
 
-- 🔭 I’m currently working on this page. 
-
-
 
 
 
