@@ -2,7 +2,7 @@
 
 I'm seetharam, and I do content on Design and Development. I really enjoy learning languages and frameworks like React.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/seetharamvanamreddi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/seetharamvanamreddi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](<i class="fa fa-html5" aria-hidden="true"></i>)  
 
 ![Profile views](https://gpvc.arturio.dev/seetharamvanamreddi)  
 
