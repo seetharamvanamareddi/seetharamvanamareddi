@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm seetharam, and I do content on Design and Development. I really enjoy learning languages and frameworks like React.
+I'm seetharam, and I work on Design and Development. I really enjoy learning languages and frameworks like React.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/seetharamvanamreddi)  
 
