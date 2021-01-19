@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm seetharam, and I work on Front End Web Development. I really enjoy learning languages and frameworks like React.
+I'm seetharam, and I work on Front End Web Developer. I really enjoy learning languages and frameworks like React.
 
 ![Profile views](https://gpvc.arturio.dev/seetharamvanamreddi) 
 
