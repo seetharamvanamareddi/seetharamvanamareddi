@@ -2,11 +2,29 @@
 
 I'm seetharam, and I work on Front End Web Development. I really enjoy learning languages and frameworks like React.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/seetharamvanamreddi)  
+`[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/seetharamvanamreddi)`
 
-![Profile views](https://gpvc.arturio.dev/seetharamvanamreddi)  
+![Profile views](https://gpvc.arturio.dev/seetharamvanamreddi) 
 
-Skills: HTML/CSS/JavaScript
+```javascript
+const seetharam = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["Jquery"],
+            css: ["Sass", "bootstrap"]
+        },
+        backEnd: {
+            python: ["flask"]
+        },
+        databases: ["MySql", "sqlite"],
+        misc: ["selenium"]
+    },
+    architecture: ["Single page applications"],
+};
+```
 
 
 
