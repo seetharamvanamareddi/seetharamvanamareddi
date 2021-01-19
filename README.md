@@ -2,7 +2,7 @@
 
 I'm seetharam, frontend developer . I really enjoy learning languages and frameworks like React.
 🧠 learning [reactjs][react]  
-<a href="https://github.com/seetharamvanamareddi"><img src="https://img.shields.io/badge/github/seetharamvanamareddi--_.svg?style=social&logo=Github" alt="Github"></a>
+<a href="https://github.com/seetharamvanamareddi"><img src="https://img.shields.io/badge/github--_.svg?style=social&logo=Github" alt="Github"></a>
 
 
 ![Profile views](https://gpvc.arturio.dev/seetharamvanamreddi) 
