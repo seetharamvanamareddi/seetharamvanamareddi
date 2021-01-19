@@ -4,7 +4,7 @@ I'm seetharam, and I work on Front End Web Development. I really enjoy learning 
 
 ![Profile views](https://gpvc.arturio.dev/seetharamvanamreddi) 
 
-javascript
+```javascript
 const seetharam = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python"],
@@ -22,9 +22,7 @@ const seetharam = {
     },
     architecture: ["Single page applications"],
 };
-
-
-
+```
 
 
 
