@@ -7,7 +7,7 @@ I'm seetharam, and I work on Front End Web Development. I really enjoy learning 
 ```javascript
 const seetharam = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python"],
+    code: ["JavaScript", "Python"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
