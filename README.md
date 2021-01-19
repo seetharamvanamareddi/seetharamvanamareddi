@@ -1,4 +1,4 @@
-<h2>Hi there 👋<h2/>
+### Hi there 👋
 
 I'm seetharam, and I work on Front End Web Development. I really enjoy learning languages and frameworks like React.
 
