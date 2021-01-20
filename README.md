@@ -4,7 +4,6 @@ I'm seetharam, frontend developer.
 
 🧠 learning [reactjs][react]  
 <p align="left">
- <a href="https://github.com/seetharamvanamareddi"><img src="https://img.shields.io/badge/github--_.svg?style=social&logo=Github" alt="Github"></a> 
  </p>
 
 ![Profile views](https://gpvc.arturio.dev/seetharamvanamreddi) 
